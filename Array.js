@@ -195,9 +195,80 @@
 
    //merging array
 
-   const a=["payal","kajal","mansi"];
-   const b=["vishal","viral","nil"];
-   const c=["jay","rutvik","prince"];
-   const d=a.concat(b,c);
-   document.getElementById
+{
+//    const a=["payal","kajal","mansi"];
+//    const b=["vishal","viral","nil"];
+//    const c=["jay","rutvik","prince"];
+//    const d=a.concat(b,c);
+//    document.getElementById("demo").innerHTML=d;
+}
+   // the concat()method does not change the existing array .it always returns a new array
 
+
+ // javascrip array splice()
+ 
+ {
+    // let name=["jay","nil","rutvik","vishal"];
+    // document.getElementById("demo").innerHTML=name;
+    // name.splice(1,3,"laxit","nikhil");
+    // document.getElementById("demo1").innerHTML=name;
+
+ }
+
+  {
+    //  const name=["jay","nil","rutvik","vishal"];
+    //  document.getElementById("demo").innerHTML="original array:<br>"+name;
+
+    //  let removed=name.splice(1,2,"nikhil","viral");
+    //  document.getElementById("demo1").innerHTML="new array array:<br>"+name;
+    
+    //  document.getElementById("demo2").innerHTML="removed items:<br>"+removed;
+  }
+
+  //using splice () to remov element
+{
+    // const name=["jay","nil","rutvik","vishal"];
+    // document.getElementById("demo1").innerHTML=name;
+    // name.splice(0,2);
+    // document.getElementById("demo2").innerHTML=name;  
+}
+
+//javascrip array slice()
+{
+    // const name=["jay","nil","rutvik","vishal"];
+    // const newremove=name.slice(1);
+    // document.getElementById("demo").innerHTML=newremove;
+}
+ 
+// array is array
+
+{
+    // const name=["jay","nil","rutvik","vishal"];
+    // const names="string";
+    // console.log(Array.isArray(name));
+}
+
+//sorting array
+{
+    // const name=["jay","nil","rutvik","vishal"];
+    // let names=name.sort();
+    // console.log(name);
+}
+
+// reversing array
+{
+    // const name=["jay","nil","rutvik","vishal"];
+    // console.log(name);
+    // let names=name.reverse();
+    // console.log(names);
+    // let namess=name.sort();
+    // console.log(namess);   
+}
+
+//number sort
+{
+    const number=[23,52,36,32,31,96,200,300];
+    console.log(number);
+    const number1=number.sort(function(a,b){return a-b});
+    console.log(number1);
+}
