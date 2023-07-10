@@ -12,7 +12,7 @@
 // string slice
 {
     // let name="rutvik , jay , rohan , nil ,";
-    // let part=name.slice (0,12);
+    // let part=name.slice (0,1);
     // document.write(part);
 }
 3.
@@ -20,14 +20,14 @@
 {
     
     // let name="rutvik , jay , rohan , nil ,";
-    // let part=name.substring (-10,15);
+    // let part=name.substring (1,-1);
     // document.write(part);
 }
 
 4.
 // string substr
  {
-    //     let name="rutvik , jay , rohan , nil ,";
+    // let name="rutvik , jay , rohan , nil ,";
     // let part=name.substr (0,20);
     // console.log(part)    
 }
@@ -35,11 +35,11 @@
 // string replaceall
 {
 
-    // let a="i love Cats.but cats are very easy to love. Cats are very popular.but Cats Dangerous";
+    // let a="i love cats.but cats are very easy to love. cats are very popular.but cats Dangerous";
     // let change=a.replaceAll("cast","dog");
-    // let changee=a.replaceAll("Cast","Dog");
-    // document.write(change+changee);
-    // document.write(changee);
+    // //let changee=a.replaceAll("Cast","Dog");
+    // document.write(change)
+    // //document.write(changee);
 }
 
 6.
@@ -135,7 +135,7 @@
 // text ="";
 // for(let i=0;i<myArr.length;i++)
 // {
-//     text=text+myArr[i];
+//     text=text+myArr[i]+"<br>";
 // }
 // document.write(text);
 }   
@@ -145,42 +145,42 @@
 //String indexOf()
 {
 // let text = "Please locate where 'locate' occurs!";
-// let index = text.indexOf("locate",5);
+// let index = text.indexOf("locate");
 // console.log(index);
 }
 2.
 // srting lastindex()
 {
 // let text = "Please locate where 'locate' occurs!";
-// let index = text.lastIndexOf("locate",5);
+// let index = text.lastIndexOf("a");
 // console.log(index);
 }
 3.
 //String search()
 {
-    // let text = "Please text Please locate where 'locate' occurs!";
-    // let index = text.lastIndexOf("locate");
+    // let text = "Please text Please locate where locate occurs!";
+    // let index = text.lastIndexOf("where");
     // console.log(index);     
 }
 4.
 //String match()
 {
-    //  let text = "Please text Please locate where 'locate' occurs!";
-    //  let index = text.match("locate");
+    //  let text = "Please text Please locate where  occurs!";
+    //  let index = text.match("where");
     //  console.log(index);
 }
 5.
 //String matchAll()
 {
 // let text = "Please text Please locate where 'locate' occurs!";
-// let index = text.matchAll("locate");
+// let index = text.matchAll("occurs");
 // console.log(index);
 }
 6.
 //String includes()
 {
 // let text = "Please text Please locate where 'locate' occurs!";
-//  let index = text.includes("is");
+//  let index = text.includes("where");
 //  console.log(index);
 }
 7.

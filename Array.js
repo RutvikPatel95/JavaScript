@@ -29,19 +29,19 @@
 
 /*accessing the first element*/
 // let a=["yuvaraj","kajal","rutvik","nil"];
-// console.log(a[1]);
+// console.log(a[4]);
 // console.log(a);
 
 /*accessing the last Element*/
 
 // let a=["yuvaraj","kajal","rutvik","nil"];
-// console.log(a.length-3);
+// console.log(a.length-4);
 // console.log(a);
 
 // Accessing The First Array Element
 
 // var fruits =["Banana","Orange","Apple","Mango"];
-// console.log(fruits[0]);
+// console.log(fruits[3]);
 // console.log(fruits);
 
 // Accessing The Last Array Element
@@ -109,7 +109,7 @@
     // document.getElementById("demo").innerHTML=name;
     // name.pop();
     // name.pop();
-    // document.getElementById("demo").innerHTML=name;
+    // document.getElementById("demo1").innerHTML=name;
 
 }
      //pop() method returns the value that was "popedout"
@@ -137,6 +137,8 @@
 
      // shifting elements
     //  java scrip shifting
+
+
      //tha shift()method removes the first array element and "shifts" all other element to a lower index
   {
     // let name=["jay","nil","rutvik","vishal"];
@@ -199,7 +201,7 @@
 //    const a=["payal","kajal","mansi"];
 //    const b=["vishal","viral","nil"];
 //    const c=["jay","rutvik","prince"];
-//    const d=a.concat(b,c);
+//    const d=c.concat(a,b);
 //    document.getElementById("demo").innerHTML=d;
 }
    // the concat()method does not change the existing array .it always returns a new array
@@ -237,7 +239,7 @@
 {
     // const name=["jay","nil","rutvik","vishal"];
     // const newremove=name.slice(1);
-    // document.getElementById("demo").innerHTML=newremove;
+    // document.getElementById("demo1").innerHTML=name + "<br><br>"+ newremove;
 }
  
 // array is array
@@ -267,8 +269,9 @@
 
 //number sort
 {
-    const number=[23,52,36,32,31,96,200,300];
-    console.log(number);
-    const number1=number.sort(function(a,b){return a-b});
-    console.log(number1);
-}
+    // const number=[23,52,36,32,31,96,200,300];
+    //  console.log(number);
+    
+    // const number1=number.sort(function(a,b){return a-b});
+    // console.log(number1);
+    }
