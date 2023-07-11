@@ -159,8 +159,9 @@
 //String search()
 {
     // let text = "Please text Please locate where locate occurs!";
-    // let index = text.lastIndexOf("where");
+    // let index = text.lastIndexOf("locate");
     // console.log(index);     
+    // document.getElementById("demo").innerHTML=index;
 }
 4.
 //String match()

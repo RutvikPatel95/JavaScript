@@ -238,7 +238,7 @@
 //javascrip array slice()
 {
     // const name=["jay","nil","rutvik","vishal"];
-    // const newremove=name.slice(1);
+    // const newremove=name.slice(2);
     // document.getElementById("demo1").innerHTML=name + "<br><br>"+ newremove;
 }
  
