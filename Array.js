@@ -250,6 +250,7 @@
     // console.log(Array.isArray(name));
 }
 
+
 //sorting array
 {
     // const name=["jay","nil","rutvik","vishal"];
