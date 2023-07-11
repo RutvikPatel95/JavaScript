@@ -276,3 +276,40 @@
     // const number1=number.sort(function(a,b){return a-b});
     // console.log(number1);
     }
+
+//javascript array fill methode
+{
+    // const name=["jay","viral","nil","rutvik","nikhil"];
+    // const names=name.fill("1",1);
+    // console.log(names);
+}
+
+//javascript array copywithin() method
+
+{
+    // const name=["jay","viral","nil","rutvik","nikhil"];
+    // let names=name.copyWithin(2,4)
+    // console.log(names);
+
+}
+
+// javascrip valueof()methode
+{
+    // const name=["jay","viral","nil","rutvik","nikhil"];
+    // const a=name.valueOf();
+    // console.log(a);
+
+}
+
+// javascript flat ()methode
+{
+    // const name=[1,2,3[4,[5,6,[7,8,9]]]];
+    // let name1=name.flat();
+    // let name2=name.flat(2);
+    // let name3=name.flat(3);
+    // let name4=name.flat(4);
+    // console.log(name1);
+    // console.log(name2);
+    // console.log(name3);
+    // console.log(name4);
+}
