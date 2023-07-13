@@ -174,7 +174,7 @@
 //String matchAll()
 {
 // let text = "Please text Please locate where 'locate' occurs!";
-// let index = text.matchAll("occurs");
+// let index = text.matchAll("occurs!");
 // console.log(index);
 }
 6.
