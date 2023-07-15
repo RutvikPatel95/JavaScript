@@ -280,7 +280,7 @@
 //javascript array fill methode
 {
     // const name=["jay","viral","nil","rutvik","nikhil"];
-    // const names=name.fill("1",1);
+    // const names=name.fill("1",3);
     // console.log(names);
 }
 

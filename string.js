@@ -130,7 +130,7 @@
 17.
 // string split()
 {
-// let  text="Hello";
+// let  text="how are you ";
 // const myArr =text.split("");
 // text ="";
 // for(let i=0;i<myArr.length;i++)
@@ -223,4 +223,8 @@
 
 // console.log(1 < 2 < 3);
 // console.log(3 <1 >0 );
+
+// prompt("how are you") 
+
+
 
