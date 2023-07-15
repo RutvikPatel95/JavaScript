@@ -36,8 +36,8 @@
 {
 
     // let a="i love cats.but cats are very easy to love. cats are very popular.but cats Dangerous";
-    // let change=a.replaceAll("cast","dog");
-    // //let changee=a.replaceAll("Cast","Dog");
+    // let change=a.replaceAll("cats","dog");
+    // //let changee=a.replaceAll("Cats","Dog");
     // document.write(change)
     // //document.write(changee);
 }
@@ -202,8 +202,9 @@
 
 /*------------------------------------------exam--------------------------------------*/ 
 29.
+
 // var a = b = 3;
-// console.log("a defined? " + (typeof a !== 'undefined'));
+// console.log("a defined? " + (typeof a == 'number'));
 // console.log("b defined? " + (typeof b !== 'undefined'));
 
 
@@ -218,6 +219,8 @@
 // for(a;a<5;a++)
 // {
 //     console.log(a);
+//} 
 
-
+// console.log(1 < 2 < 3);
+// console.log(3 <1 >0 );
 

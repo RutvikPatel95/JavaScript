@@ -4,7 +4,7 @@
 
 //math.round(x)returns the nearest integer
 {
-//  const meth1=Math.round(89.5);
+//  const meth1=Math.round(89.9);
 //  console.log(meth1);
 }
 
@@ -51,13 +51,13 @@
 
 // math.min() and max()
 {
-    let a=Math.min(1,2,3,5,2,5,3,5,5,65,2,5,6,5,65)
-    console.log(a);
-    let a1=Math.max(1,2,3,5,2,5,3,5,5,65,2,5,6,5,65)
-    console.log(a1);
+    // let a=Math.min(1,2,3,5,2,5,3,5,5,65,2,5,6,5,65)
+    // console.log(a);
+    // let a1=Math.max(1,2,3,5,2,5,3,5,5,65,2,5,6,5,65)
+    // console.log(a1);
 }
-//Math.random()
+
 {
 // let math=Math.floor(Math.random()*10000);
-// console.log(math);
+// console.log(math)+"<br>";
 }
