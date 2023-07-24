@@ -11,16 +11,16 @@
 2.
 // string slice
 {
-    // let name="rutvik , jay , rohan , nil ,";
-    // let part=name.slice (0,1);
-    // document.write(part);
+        // let name="rutvik , jay , rohan , nil ,";
+        // let part=name.slice (0,1);
+        // document.write(part);
 }
 3.
 // string substring()
 {
     
     // let name="rutvik , jay , rohan , nil ,";
-    // let part=name.substring (1,-1);
+    // let part=name.substring (-10,3);
     // document.write(part);
 }
 

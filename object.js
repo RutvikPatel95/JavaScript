@@ -1,6 +1,6 @@
 //javascript Object methode
 
-//---------------object
+//---------------object-------------------------
 {
 // const a={
 
@@ -10,7 +10,7 @@
 // console.log(  a);
 }
 
-//Object  Declaration
+//----------------------Object  Declaration----------------------------
 {
     // const a={
     //     key1:value1,
@@ -18,7 +18,7 @@
     // }
 }
 
-// object creation
+// ---------------------object creation----------------------------
 {
     // const a={
     //     name:'nil',
@@ -27,7 +27,7 @@
     // console.log(typeof a);
 }
 
-//Object Properties
+//--------------------------Object Properties-----------------------
 {
     // const a={
     //     name : 'rutik',
@@ -51,7 +51,7 @@
     //     name:'nil',
     //     age :29
     // }
-    // console.log(a["name"]);
+    // console.log(a["age"]);
 }
 
 //--------------------------two object----------------------------------------

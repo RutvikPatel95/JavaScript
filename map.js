@@ -34,3 +34,39 @@
 
 4.
 // the size() property return  the numbar of element is a map
+
+
+
+// const a=new Map([
+//     ["item1",23],
+//     ["item2","rutvik"],
+//     ["item3",45],
+//     ["item4","jay"]
+// ])
+// let b=a.size;
+// document.getElementById("demo1").innerHTML=b;
+
+5.
+//delete()
+
+    // const a = new Map([
+    //     ["item-1" , "car"],
+    //     ["item-2" , "bus"],
+    //     ["item-3" , "truck"]
+    // ]);
+
+    // const deletes = a.delete("item-2");
+    // document.getElementById("deletes").innerHTML =deletes;
+    // document.getElementById("deletes1").innerHTML =a.size;
+
+    6.
+    /* The has() method returns true if a key exists in a Map */
+
+        //  const   a=new Map([
+        //     ["item1",23],
+        //     ["item2","rutvik"],
+        //     ["item3",45],
+        //     ["item4","jay"]
+        // ])
+
+        // const b=a.has("item1")

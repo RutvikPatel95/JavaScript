@@ -245,9 +245,9 @@
 // array is array
 
 {
-    const name=["jay","nil","rutvik","vishal"];
-    const names="string";
-    console.log(Array.isArray(name));
+    // const name=["jay","nil","rutvik","vishal"];
+    // const names="string";
+    // console.log(Array.isArray(name));
 }
 
 
